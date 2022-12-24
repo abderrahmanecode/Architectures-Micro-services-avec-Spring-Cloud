@@ -1,0 +1,21 @@
+<div class="container">
+<div class="card">
+    <div class="card-body">
+      <table class="table">
+        <thead>
+        <tr class="bg-dark text-white">
+          <th>Product Id</th><th>Product Name</th><th>Quantity</th><th>Price</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let i of product._embedded.products">
+          <td>{{i.id}}</td>
+          <td>{{i.name}}</td>
+          <td>{{i.quantity}}</td>
+          <td>{{i.price | number : '.2'}}</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+</div>
+</div>

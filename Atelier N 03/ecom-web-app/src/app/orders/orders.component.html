@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="col-md-12">
+  <div class="card">
+    <div class="card-body">
+      <table class="table">
+        <thead>
+        <tr class="bg-dark text-white">
+          <th>Order Id</th><th>Order Date</th><th>Customer Id</th><th>View Details</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let i of orders._embedded.bills">
+          <td>{{i.id}}</td>
+          <td>{{i.billingDate|date:'dd/MM/yyyy'}}</td>
+          <td>{{i.customerID}}</td>
+          <td>
+            <button class="btn btn-success" (click)="getOrderDetails(i)">Order Details</button>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  </div>
