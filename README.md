@@ -54,14 +54,14 @@
 
 ![image](https://user-images.githubusercontent.com/101798685/213418238-12745e0c-7933-41ec-9e1a-2ecd4187fe1e.png)
 
-#Authentification Postman en utilisant username & password pour demander l'access-token
+# Authentification Postman en utilisant username & password pour demander l'access-token
 
 ![image](https://user-images.githubusercontent.com/101798685/213418334-5c219fe2-a272-4c7c-a911-a43fb6da5f70.png)
 
 
 ![image](https://user-images.githubusercontent.com/101798685/213419194-f64f034d-2ef9-498f-8764-bf5e1843076a.png)
 
-#Authentification with client_credentials
+# Authentification with client_credentials
 
 ![image](https://user-images.githubusercontent.com/101798685/213423856-8ec35c82-4e46-4963-878b-753e128f2a2c.png)
 
