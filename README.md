@@ -33,3 +33,37 @@
 ![image](https://user-images.githubusercontent.com/101798685/209436456-3e84afe4-8bed-4340-ac54-07cea7112358.png)
 
 ![image](https://user-images.githubusercontent.com/101798685/209436464-d4fbcbb9-805b-4624-9ef8-2fc6e9941cdf.png)
+
+# Serveur KeyCloak
+
+![image](https://user-images.githubusercontent.com/101798685/213417263-26dd2f22-24ab-4648-a2d2-333c1846d6dc.png)
+
+# Client
+
+![image](https://user-images.githubusercontent.com/101798685/213417495-940bdb01-41dd-4773-bf65-a3fdfb3b9ed4.png)
+
+# Utilisateurs
+
+![image](https://user-images.githubusercontent.com/101798685/213417741-2ecbfaac-2501-45b0-8ed6-2d43bc8c3ddf.png)
+
+#Rôles
+
+![image](https://user-images.githubusercontent.com/101798685/213417838-667c170a-c17e-4cac-a296-820325e522f2.png)
+
+# Rôle Mapping
+
+![image](https://user-images.githubusercontent.com/101798685/213418238-12745e0c-7933-41ec-9e1a-2ecd4187fe1e.png)
+
+#Authentification Postman en utilisant username & password pour demander l'access-token
+
+![image](https://user-images.githubusercontent.com/101798685/213418334-5c219fe2-a272-4c7c-a911-a43fb6da5f70.png)
+
+
+![image](https://user-images.githubusercontent.com/101798685/213419194-f64f034d-2ef9-498f-8764-bf5e1843076a.png)
+
+#Authentification with client_credentials
+
+![image](https://user-images.githubusercontent.com/101798685/213423856-8ec35c82-4e46-4963-878b-753e128f2a2c.png)
+
+
+
